@@ -1,0 +1,17 @@
+#para{
+  color: black;
+  font-size:x-large;
+   border: 2px solid rgb(241, 18, 104);
+   border-radius: 8px;
+}
+#strength-indicator{
+    border: 2px solid green;
+    color: black;
+    font-size:x-large;
+    border-radius: 8px;
+}
+body{
+background-image: url("https://images.pexels.com/photos/1449462/pexels-photo-1449462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+background-repeat: no-repeat;
+background-size: cover;
+}
